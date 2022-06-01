@@ -28,10 +28,10 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  𝘴𝓽ꫀꪜꫀꪀ ᧁ𝘳ꪖꪀᦔ
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [@UKG_LiZarD]
+
 
 ➥ Language : Python3
 
