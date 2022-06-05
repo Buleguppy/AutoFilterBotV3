@@ -28,7 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  𝘴𝓽ꫀꪜꫀꪀ ᧁ𝘳ꪖꪀᦔ
+➥ Name :  ᗰ.ᗩ.᙭
     
 ➥ Creator : [@UKG_LiZarD]
 
